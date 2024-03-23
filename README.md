@@ -23,8 +23,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ```
-NAME:ABINAYA S
-REG NO: 212222230002
+NAME:KARTHIKA E
+REG NO: 212222040072
 ```
 ## WHOIS:
 ![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/6a2bddf0-dbc8-4583-a180-b605d1f3eba6)
