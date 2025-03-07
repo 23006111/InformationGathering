@@ -30,8 +30,11 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 
-## WEB ARCHIVE:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/cf796219-383f-4809-9198-bcf1d883ad91)
+## IP2LOCATION:
+![image](https://github.com/user-attachments/assets/4bfcd630-220e-4edb-8d41-5f4a100a1784)
+![image](https://github.com/user-attachments/assets/ea8c088c-eba5-4f6e-b68b-4d95d7286310)
+
+
 
 ## NMAP:
 ![image](https://github.com/user-attachments/assets/07f094ee-cd21-4136-8a9a-bf52e014c8bf)
