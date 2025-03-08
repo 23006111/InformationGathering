@@ -43,7 +43,6 @@ get further detail by using ip2location.com website.
 
 
 ![image](https://github.com/user-attachments/assets/9ad002bd-ca7b-4a66-8541-350ef497e2b9)
-![image](https://github.com/user-attachments/assets/52023084-accf-460d-b1ab-b3bdd69adeaa)
 ![image](https://github.com/user-attachments/assets/0a164058-b8eb-4f64-9fe8-a3f61c887944)
 
 ## History of the website:
