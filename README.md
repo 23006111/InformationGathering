@@ -56,15 +56,20 @@ https://web.archive.org/
 # Webserver Fingerprinting:
 
 ## WHATWEB:
-![image](https://github.com/user-attachments/assets/2db0e1d6-8367-4059-82f4-d9ef41837cf1)
-![kali-linux-2024 4-vmware-amd64-2025-03-07-21-59-04](https://github.com/user-attachments/assets/893ff1a4-9532-4e05-a452-70965d1e6762)
-![kali-linux-2024 4-vmware-amd64-2025-03-07-22-00-27](https://github.com/user-attachments/assets/59e3ff72-5c6b-4875-8be5-4e6251b15c9b)
-![kali-linux-2024 4-vmware-amd64-2025-03-07-22-01-23](https://github.com/user-attachments/assets/dc119874-1d99-4065-85c7-1310b13076bc)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-14-37-56](https://github.com/user-attachments/assets/2f703dbd-368b-48d3-afe4-7d36d05a2bd0)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-14-38-37](https://github.com/user-attachments/assets/f6603744-c9f8-4f88-b05e-3dbba3a155f4)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-14-40-10](https://github.com/user-attachments/assets/0569d85c-313d-4eec-b195-fb3c360cf72b)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-14-40-54](https://github.com/user-attachments/assets/2e0b8f56-f505-4cfa-a72f-017c39061167)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-14-41-26](https://github.com/user-attachments/assets/9f1bad2e-9fcb-49e7-8c23-3fd0637c1c36)
+
+
+
+
 
 
 
 ## NMAP:
-![image](https://github.com/user-attachments/assets/07f094ee-cd21-4136-8a9a-bf52e014c8bf)
+![image](https://github.com/user-attachments/assets/f844fd83-990e-4e28-b0b2-515b6fdeb0c1)
 
 
 
