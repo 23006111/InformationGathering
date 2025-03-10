@@ -80,10 +80,8 @@ https://web.archive.org/
 
 
 ## TRACEROUTE:
-
-![kali-linux-2024 4-vmware-amd64-2025-03-07-22-02-31](https://github.com/user-attachments/assets/8f4ab7f4-c91a-4815-b022-92dd3a2c6ee5)
-
-![image](https://github.com/user-attachments/assets/93a9e982-c6fc-4279-a626-5f26c0c40e62)
+![image](https://github.com/user-attachments/assets/0ad3ee3b-a8d1-4319-9648-c4f6111f852e)
+![kali-linux-2024 4-vmware-amd64-2025-03-08-21-36-14](https://github.com/user-attachments/assets/8988a24c-7d77-4d62-9386-1f17eeb0c64d)
 
 
 
